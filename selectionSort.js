@@ -12,7 +12,6 @@ function selectionSort(array) {
   return array;
 }
 
-console.log(
-  "The sorted array : [4 ,5 ,1 ,2 ,3 ,19] is ",
-  selectionSort([4, 5, 1, 2, 3, 19])
-);
+const array = [4, 5, 1, 2, 3, 19];
+
+console.log(`The sorted array : ${array} is `, selectionSort(array));
