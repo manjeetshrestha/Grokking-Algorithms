@@ -1,3 +1,4 @@
+// can only sort positive numbers.
 const array = [1024, 5, 1, 3, 10, 100, 59, 49, 69, 22, 120, 999, 141, 1020];
 console.log("Sorted Array is ", radixSort(array));
 
