@@ -1,2 +1,3 @@
 # Grokking-Algorithms
-## Implementing exercises of grokking algorithms book using javascript
+
+Implementing algorithms mentioned in "Grokking Algorithms: An illustrated guide for programmers and other curious people" by Aditya Bhargava using javascript
