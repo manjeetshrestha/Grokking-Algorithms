@@ -43,6 +43,7 @@ function dijkstra(graph, costs, parents) {
     node = findLowestCostNode(costs);
   }
   console.log("Final costs are", costs);
+  console.log("Final parents are", parents);
 }
 
 function findLowestCostNode(costs) {
